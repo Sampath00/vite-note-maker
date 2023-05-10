@@ -1,0 +1,314 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Testing the App Component > Testing the App snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="css-d9w2cm"
+      >
+        <div
+          class="chakra-stack css-wdzbn0"
+        >
+          <p
+            class="chakra-text css-37kvc8"
+          >
+             Note Maker 
+          </p>
+          <a
+            href="/create"
+          >
+            <button
+              class="chakra-button css-4xx2wk"
+              type="button"
+            >
+              <span
+                class="chakra-button__icon css-1wh2kri"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="chakra-icon css-onkibi"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <g
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-width="2"
+                  >
+                    <path
+                      d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                    />
+                    <path
+                      d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                    />
+                  </g>
+                </svg>
+              </span>
+               Create 
+            </button>
+          </a>
+        </div>
+      </nav>
+      <div
+        class="css-hrinq2"
+      >
+        <div
+          class="css-0"
+        >
+          <p
+            class="chakra-text css-17wuu4s"
+          >
+            Notes
+          </p>
+          <div>
+            <div
+              class="css-13aqbry"
+            >
+              <div
+                class="chakra-card css-17ni4tv"
+              >
+                <div
+                  class="chakra-card__header css-0"
+                >
+                  <p
+                    class="chakra-text css-10ircq3"
+                  >
+                    Meeting
+                  </p>
+                </div>
+                <div
+                  class="chakra-card__body css-0"
+                >
+                  <p
+                    class="chakra-text css-0"
+                  >
+                    Information is an abstract concept that refers to that which has the power to inform. At the most fundamental level, information pertains to the interpretation (perhaps formally) of that which may be sensed, or their abstractions.
+                  </p>
+                </div>
+                <div
+                  class="chakra-card__footer css-k008qs"
+                >
+                  <p
+                    class="chakra-text css-g5hezf"
+                  >
+                    Wed May 10 2023 22:02:07 GMT+0530 (India Standard Time)
+                  </p>
+                </div>
+                <div
+                  class="css-aga4ma"
+                >
+                  <button
+                    class="chakra-button css-4xx2wk"
+                    type="button"
+                  >
+                    <span
+                      class="chakra-button__icon css-1wh2kri"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="chakra-icon css-onkibi"
+                        focusable="false"
+                        viewBox="0 0 24 24"
+                      >
+                        <g
+                          fill="currentColor"
+                        >
+                          <path
+                            d="M19.452 7.5H4.547a.5.5 0 00-.5.545l1.287 14.136A2 2 0 007.326 24h9.347a2 2 0 001.992-1.819L19.95 8.045a.5.5 0 00-.129-.382.5.5 0 00-.369-.163zm-9.2 13a.75.75 0 01-1.5 0v-9a.75.75 0 011.5 0zm5 0a.75.75 0 01-1.5 0v-9a.75.75 0 011.5 0zM22 4h-4.75a.25.25 0 01-.25-.25V2.5A2.5 2.5 0 0014.5 0h-5A2.5 2.5 0 007 2.5v1.25a.25.25 0 01-.25.25H2a1 1 0 000 2h20a1 1 0 000-2zM9 3.75V2.5a.5.5 0 01.5-.5h5a.5.5 0 01.5.5v1.25a.25.25 0 01-.25.25h-5.5A.25.25 0 019 3.75z"
+                          />
+                        </g>
+                      </svg>
+                    </span>
+                    Delete
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="css-d9w2cm"
+    >
+      <div
+        class="chakra-stack css-wdzbn0"
+      >
+        <p
+          class="chakra-text css-37kvc8"
+        >
+           Note Maker 
+        </p>
+        <a
+          href="/create"
+        >
+          <button
+            class="chakra-button css-4xx2wk"
+            type="button"
+          >
+            <span
+              class="chakra-button__icon css-1wh2kri"
+            >
+              <svg
+                aria-hidden="true"
+                class="chakra-icon css-onkibi"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <g
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-width="2"
+                >
+                  <path
+                    d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                  />
+                  <path
+                    d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                  />
+                </g>
+              </svg>
+            </span>
+             Create 
+          </button>
+        </a>
+      </div>
+    </nav>
+    <div
+      class="css-hrinq2"
+    >
+      <div
+        class="css-0"
+      >
+        <p
+          class="chakra-text css-17wuu4s"
+        >
+          Notes
+        </p>
+        <div>
+          <div
+            class="css-13aqbry"
+          >
+            <div
+              class="chakra-card css-17ni4tv"
+            >
+              <div
+                class="chakra-card__header css-0"
+              >
+                <p
+                  class="chakra-text css-10ircq3"
+                >
+                  Meeting
+                </p>
+              </div>
+              <div
+                class="chakra-card__body css-0"
+              >
+                <p
+                  class="chakra-text css-0"
+                >
+                  Information is an abstract concept that refers to that which has the power to inform. At the most fundamental level, information pertains to the interpretation (perhaps formally) of that which may be sensed, or their abstractions.
+                </p>
+              </div>
+              <div
+                class="chakra-card__footer css-k008qs"
+              >
+                <p
+                  class="chakra-text css-g5hezf"
+                >
+                  Wed May 10 2023 22:02:07 GMT+0530 (India Standard Time)
+                </p>
+              </div>
+              <div
+                class="css-aga4ma"
+              >
+                <button
+                  class="chakra-button css-4xx2wk"
+                  type="button"
+                >
+                  <span
+                    class="chakra-button__icon css-1wh2kri"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="chakra-icon css-onkibi"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <g
+                        fill="currentColor"
+                      >
+                        <path
+                          d="M19.452 7.5H4.547a.5.5 0 00-.5.545l1.287 14.136A2 2 0 007.326 24h9.347a2 2 0 001.992-1.819L19.95 8.045a.5.5 0 00-.129-.382.5.5 0 00-.369-.163zm-9.2 13a.75.75 0 01-1.5 0v-9a.75.75 0 011.5 0zm5 0a.75.75 0 01-1.5 0v-9a.75.75 0 011.5 0zM22 4h-4.75a.25.25 0 01-.25-.25V2.5A2.5 2.5 0 0014.5 0h-5A2.5 2.5 0 007 2.5v1.25a.25.25 0 01-.25.25H2a1 1 0 000 2h20a1 1 0 000-2zM9 3.75V2.5a.5.5 0 01.5-.5h5a.5.5 0 01.5.5v1.25a.25.25 0 01-.25.25h-5.5A.25.25 0 019 3.75z"
+                        />
+                      </g>
+                    </svg>
+                  </span>
+                  Delete
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
